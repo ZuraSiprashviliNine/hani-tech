@@ -1,0 +1,151 @@
+{
+    "slides": [
+        {
+            "id": 1,
+            "title": "01",
+            "description": "welcome",
+            "top": {
+                "items": [
+                    "applications",
+                    "marketing",
+                    "design",
+                    "managment"
+                ]
+            },
+            "content": {
+                "title": "hani / tech",
+                "description": "you need us, here we go now"
+            }
+        },
+        {
+            "id": 2,
+            "title": "02",
+            "description": "what we do",
+            "content": {
+                "title": "/ Building products and services that augment access to blockchain technologies",
+                "description": "Our mission is to foster wide scale adoption of decentralized computing systems. We do this by producing products and services that make tokenized assets accessible and usable to consumers and businesses alike."
+            }
+        },
+        {
+            "id": 3,
+            "title": "03",
+            "description": "portfolio",
+            "content": {
+                "title": "Our current products and services",
+                "items": [
+                    {
+                        "id": 0,
+                        "image": "https://blocksphere.co/wp-content/uploads/2018/04/NBATM_Logo_White.png",
+                        "title": "test titlte national atm",
+                        "slag": "/portfolio/test_title",
+                        "date": "1540319176082"
+                    },
+                    {
+                        "id": 1,
+                        "image": "https://blocksphere.co/wp-content/uploads/2018/07/Logo_Text-2.png",
+                        "title": "Clearblock_OTC",
+                        "production": true,
+                        "slag": "/portfolio/OTC",
+                        "date": "1540319176082"
+                    },
+                    {
+                        "id": 2,
+                        "image": "https://blocksphere.co/wp-content/uploads/2018/04/NBATM_Logo_White.png",
+                        "title": "test titlte national atm",
+                        "slag": "/portfolio/atm",
+                        "date": "1540319176082"
+                    },
+                    {
+                        "id": 3,
+                        "image": "https://blocksphere.co/wp-content/uploads/2018/07/Logo_Text-2.png",
+                        "title": "Clearblock_OTC",
+                        "production": true,
+                        "slag": "/portfolio/clear",
+                        "date": "1540319176082"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "title": "04",
+            "description": "team",
+            "content": {
+                "items": [
+                    {
+                        "id": 0,
+                        "title": "zura siprashvili",
+                        "stat": "Developer / manager",
+                        "image": "https://i.imgur.com/DqnuqEz.jpg",
+                        "slag": "/team/zura",
+                        "socials": {
+                            "facebook": "facebook",
+                            "linkedin": "linkedin",
+                            "github": "github"
+                        }
+                    },
+                    {
+                        "id": 1,
+                        "title": "ninia marikhashvili",
+                        "stat": "Designer / Marketing",
+                        "image": "https://i.imgur.com/QLbWisx.jpg",
+                        "slag": "/team/ninia",
+                        "socials": {
+                            "instagram": "instagram",
+                            "linkedin": "linkedin",
+                            "behance": "behance"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "title": "alex tsirikidze",
+                        "stat": "Developer",
+                        "image": "https://scontent.ftbs3-2.fna.fbcdn.net/v/t1.0-9/38509699_1771358196251786_4222017778988613632_n.jpg?_nc_cat=104&_nc_ht=scontent.ftbs3-2.fna&oh=2f9d12750163cd0c81f49d206aa3fe67&oe=5C3D64BF",
+                        "slag": "/team/alex",
+                        "socials": {
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "title": "05",
+            "description": "partners",
+            "content": {
+                "partners": [
+                    {
+                        "id": 1,
+                        "title": "connect.ge",
+                        "description": "A company is any entity that engages in business. Companies can be structured in different ways. For example, your company can be a sole proprietorship, a partnership, or a corporation. Depending on which different type of company you're dealing with, it may be owned by one person or a group of people.",
+                        "date": [
+                            "11.04.28",
+                            "12.04.28"
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "title": "something.ge",
+                        "description": "A company is any entity that engages in business. Companies can be structured in different ways. For example, your company can be a sole proprietorship, a partnership, or a corporation. Depending on which different type of company you're dealing with, it may be owned by one person or a group of people.",
+                        "date": [
+                            "12.04.28",
+                            "12.03.12"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "title": "06",
+            "description": "contact",
+            "content": {
+                "map": {
+                    "x": "41.715137",
+                    "y": "44.827095"
+                },
+                "description": "Our door is always open and we welcome and questions or comments you have for our team. If you wish to get in touch, please send an email in to hello@blocksphere.coor fill out the form below. Someone from our team will get back to you shortly."
+            }
+        }
+    ]
+}
